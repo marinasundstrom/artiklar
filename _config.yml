@@ -1,0 +1,18 @@
+title: "Artiklar"
+author: "Robert Sundström"
+description: "Samlade artiklar och översättningar"
+lang: "sv"
+
+navigation: 
+#  - index.html
+#  - README.md
+#  - title: "https://"
+
+icons:
+  github: "https://github.com/robertsundstrom/artiklar"
+  rss: "/artiklar/feed.xml"
+
+remote_theme: niklasbuschmann/contrast
+
+plugins:
+  - jekyll-remote-theme

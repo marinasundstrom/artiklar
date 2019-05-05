@@ -1,4 +1,8 @@
-# Ekonomiska depressioner: Deras orsak och botemedel
+---
+title: "Ekonomiska depressioner: Deras orsak och botemedel"
+layout: post
+---
+
 Murray N. Rothbard
 
 > _Denna essä publicerades ursprungligen [i sitt ursprungsspråk] som en minibok av Constitutional Alliance of Lansing, Michigan, 1969._
