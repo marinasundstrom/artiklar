@@ -1,7 +1,7 @@
 Artiklar från Rothbard-institutet mm.
 
 ## Översättningar
-* [Ekonomiska depressioner: Deras orsak och botemedel](/ekonomiska-depressioner) av [Murray N. Rothbard](https://en.wikipedia.org/wiki/Murray_Rothbard)
+* [Ekonomiska depressioner: Deras orsak och botemedel](/artiklar/ekonomiska-depressioner) av [Murray N. Rothbard](https://en.wikipedia.org/wiki/Murray_Rothbard)
 
 
 ## Licens
