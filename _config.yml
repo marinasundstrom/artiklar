@@ -4,9 +4,7 @@ description: "Samlade artiklar och översättningar"
 lang: "sv"
 
 navigation: 
-#  - index.html
-#  - README.md
-#  - title: "https://"
+# - README.md
 
 icons:
   github: "https://github.com/robertsundstrom/artiklar"
