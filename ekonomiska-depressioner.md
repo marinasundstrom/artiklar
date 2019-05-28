@@ -3,11 +3,11 @@ title: "Ekonomiska depressioner: Deras orsak och botemedel"
 layout: post
 ---
 
+>_Översättning av ”Economic Depressions: Their Cause and Cure” av Murray N. Rothbard. Texten kan läsas i sitt originalspråk [här](https://mises.org/library/economic-depressions-their-cause-and-cure)._
+
 Murray N. Rothbard
 
 > _Denna essä publicerades ursprungligen [i sitt ursprungsspråk] som en minibok av Constitutional Alliance of Lansing, Michigan, 1969._
-
->_Översättning av ”Economic Depressions: Their Cause and Cure” av Murray N. Rothbard. Texten kan läsas i sitt originalspråk [här](https://mises.org/library/economic-depressions-their-cause-and-cure)._
 
 Vi lever i en värld av eufemismer. Dödgrävare har blivit ”begravningsentreprenörer”, pressagenter har blivit ”pr-rådgivare” och städare har alla blivit ”lokalvårdare”. I vartenda område har rena fakta förpackats i dunkelt kamouflage.
 
